@@ -4,7 +4,7 @@
   "description": "Esto es mi primer ejercicio en node js",
   "main": "Index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node Index.js"
   },
   "author": "Kinwi",
   "license": "ISC",
