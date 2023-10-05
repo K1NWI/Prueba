@@ -3,7 +3,7 @@ const path = require('path');
 const app = express();
 
 app.get('/', function (req, res) {
-  res.sendFile(path.join(__dirname, 'inicio.html'));
+  res.sendFile(path.join(__dirname, 'jose/inicio.html'));
 });
 
 app.listen(3000);
